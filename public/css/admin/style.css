@@ -1,0 +1,8 @@
+body{
+    background: url("../../storage/bg.jpg") no-repeat fixed;
+    background-size: cover ;
+}
+.login{
+    max-width: 430px;
+    margin: 60px auto;
+}
